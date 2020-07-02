@@ -1,0 +1,1 @@
+Simple iOS app in Swift with a single screen view. Press the buttons and get a pop-up with an explanation on what each button means. Uses a dictionary to store the meanings. Good exercise to learn the basics of interface builder and auto layout, buttons, alert messages, dictionaries all with Swift. Fork this and modify however you want. This is just for fun and learning.
